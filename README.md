@@ -23,6 +23,6 @@
 
 | ![](https://github.com/haero77.png?size=80) | ![](https://github.com/tinajeong.png?size=80) | ![](https://github.com/boompatron.png?size=80) | ![](https://github.com/goseungwon.png?size=80) |
 |:-------------------------------------------:|:---------------------------------------------:|:----------------------------------------------:|:----------------------------------------------:|
-|     [선호](https://github.com/preferkim)      |      [찬미](https://github.com/tinajeong)       |      [보섭](https://github.com/boompatron)       |      [승원](https://github.com/goseungwon)       |
+|     [선호](https://github.com/haero77)      |      [찬미](https://github.com/tinajeong)       |      [보섭](https://github.com/boompatron)       |      [승원](https://github.com/goseungwon)       |
 
 
