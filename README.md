@@ -23,7 +23,7 @@
 
 ### 시즌 1 
 
-- 기간: 23.05.17 ~ 23.12.20 (총 21회차 진행)
+- 기간: 23.05 ~ 23.12
 
 
 | ![](https://github.com/haero77.png?size=80) | ![](https://github.com/tinajeong.png?size=80) | ![](https://github.com/boompatron.png?size=80) | ![](https://github.com/goseungwon.png?size=80) |
@@ -33,7 +33,7 @@
 
 ### 시즌 2
 
-- 기간: 24.02.07~
+- 기간: 24.02 ~ 24.07
 
 | ![](https://github.com/haero77.png?size=80) | ![](https://github.com/boompatron.png?size=80) | ![](https://github.com/goseungwon.png?size=80) | ![](https://github.com/dlxortmd987.png?size=80) |
 |:-------------------------------------------:|:----------------------------------------------:|:----------------------------------------------:|:-----------------------------------------------:|
